@@ -13,6 +13,9 @@ So we started focussing on tackling the big issue, buy designing a modular Data 
 build completely out of wooden infrastructure. 
 
 We working closely with the Open Compute Foundation and various partners to create the best data center with the smallest impact possible. 
+If you like to participate, feel free reach out under: 
+
+https://www.opencompute.org/wiki/Data_Center_Facility/MDC
 
 Short spec:
 
