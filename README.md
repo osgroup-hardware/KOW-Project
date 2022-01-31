@@ -30,7 +30,7 @@ for upto 10 OCP Racks V2
 
 Further information: 
 
-https://kow-mdc.com/
+https://grabcad.com/library/wooden-data-center-woody-ocp-150-kw-1
 
 Feel free to reach out: 
 
