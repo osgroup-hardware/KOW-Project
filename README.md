@@ -1,7 +1,8 @@
 # KOW-Project
 
 
-![Screenshot from 2021-02-22 09-54-08](https://user-images.githubusercontent.com/79994626/117145156-1e0f4300-adb3-11eb-9172-b694dbd8fdf9.png)
+
+![Screenshot from 2021-05-27 18-10-15](https://user-images.githubusercontent.com/79994626/151797315-22e04323-ac2b-48ab-a217-f21d7f2e06a0.png)
 
 
 After of decade of trying to run more efficient Data Center it is time to tackle the elefphant in the room. 
